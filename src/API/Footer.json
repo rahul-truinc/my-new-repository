@@ -1,0 +1,23 @@
+{
+    "footerLogo": "./Images/KimPhat-footer-logo.svg",
+    "footercol1heading": "About",
+    "footerlinkcol1text1": "Our History",
+    "footerlinkcol1text2": "Our Stores",
+    "footerlinkcol1text3": "Our Partners",
+    "footercol2heading": "Our Offer",
+    "footerlinkcol2text1": "Our Flyer",
+    "footerlinkcol2text2": "Our Specialties",
+    "footerlinkcol2text3": "Our Private Label",
+    "footercol3heading": "Customer Services",
+    "footerlinkcol3text1": "Contact us",
+    "footerlinkcol3text2": "FAQ",
+    "footerlinkcol3text3": "Privacy Policy",
+    "footerlinkcol3text4": "Terms & Conditions",
+    "NewsletterData": [
+        {
+            "image": "./images/mail.svg",
+            "Newsletterdis": "Subscribe to our Newsletter to know all about our Kim Phat deals and weekly offers!",
+            "formButtotext":"Join now"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+.navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+}
+
+.main-nav {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    flex-direction: row;
+}
+
+.main-nav .main-nav-list {
+    margin: 0 3px;
+    list-style: none;
+    border-radius: 0.4375rem 0.4375rem 0 0;
+    flex: 1 1 auto;
+    text-align: center;
+    position: relative;
+}
+.main-nav-list .link-menu:after{
+    content: '';
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    vertical-align: middle;
+    transform: rotate(45deg);
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.main-nav .main-nav-list:hover{
+    background-color: #d10029;
+    color: #fff;
+}
+.main-nav .main-nav-list:hover a.link-menu{
+    color: #fff;
+}
+.main-nav .main-nav-list:hover a.link-menu:after{
+    border: solid #ffffff;
+    border-width: 0 3px 3px 0;
+}
+.main-nav .main-nav-list .link-menu {
+    font-size: 1.125rem;
+    font-weight: 400;
+    text-decoration: none;
+    border-radius: 0.4375rem 0.4375rem 0 0;
+    padding: 15px 20px 15px 0;
+    text-transform: uppercase;
+    position: relative;
+    margin: 0;
+    display: inline-block;
+    cursor: pointer;
+    white-space: nowrap;
+    width: 100%;
+    color: #404040;
+}
+.main-nav-child{
+    min-width: 100%;
+    background: #fff;
+    box-shadow: 0 0.5rem 0.625rem rgba(0, 0, 0, .1);
+    border-radius: 0 0 0.4375rem 0.4375rem;
+    display: none;
+}
+.main-nav-list-child{
+    border-bottom: 1px solid #e2e2e2;
+    list-style: none;
+    display: flex;
+
+}
+.main-nav-list-child:last-child, .main-nav-list-child:last-child a{
+    border-bottom: 0;
+    border-radius: 0 0 0.4375rem 0.4375rem;
+}
+.child-nav{
+    left: 0;
+    position: absolute;
+    top: 100%;
+    min-width: 100%;
+    width: 100%;
+    z-index: 99;
+    
+}
+.main-nav-list-child a{
+    text-align: left;
+    color: #3a393c;
+    text-decoration: none;
+    background-color: #fff;
+    font-size: 16px;
+    padding: 1.25rem 1.875rem;
+    width: 100%;
+}
+.main-nav-list:hover .main-nav-child{
+    display: block;
+}
+.main-nav-list-child a:hover{
+    background: #ebebeb;
+}

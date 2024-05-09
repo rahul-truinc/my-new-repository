@@ -1,0 +1,9 @@
+.card-box{
+    gap: 15px;
+}
+.imgCard img{
+    width: 100%;
+}
+.col-mid img:first-child, .col-right img:first-child{
+    margin-bottom: 15px;
+}

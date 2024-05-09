@@ -1,0 +1,131 @@
+.top-header-left {
+    width: 32%
+}
+
+.top-header-button-left {
+    width: 28%
+}
+
+.top-header-button-left a {
+    font-size: 14px;
+    line-height: 21px;
+    background-clip: border-box;
+    border: 1px solid #d10029;
+    padding: 5px 20px;
+    background-color: #d10029;
+    border: 0.125rem solid #d10029;
+    border-radius: 3.125rem;
+    color: #fff;
+}
+
+.top-header-menu-right {
+    width: 40%;
+}
+
+.top-header-menu-right ul {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.bg-black {
+    background-color: #2D2D2D;
+}
+
+.white-color * {
+    color: #ffffff;
+    text-decoration: none;
+    list-style: none;
+}
+
+.white-color .top-header-left a {
+    display: flex;
+    gap: 10px;
+}
+
+.list-en a {
+    margin-right: 20px;
+    padding-right: 20px;
+    border-right: 1px solid #ffffff;
+}
+
+.list-fr a {
+    margin-right: 20px;
+}
+
+.list-button {
+    padding: 1.25rem;
+    margin: 0 0 0 0.3125rem;
+    display: inline-block;
+    border-left: 0;
+    background-color: #025436;
+}
+
+.logo,
+.seachBar {
+    width: 50%;
+}
+
+.seachBar {
+    display: flex;
+    justify-content: right;
+}
+.campaigns-search{
+    width: 100%;
+}
+.seachBar .d-flex.flex-wrap{
+   max-width: 460px;
+   width: 100%;
+}
+.campaigns-search-input {
+    border-radius: 0.4375rem;
+    color: #404040;
+    border: 0.0625rem solid #ddd;
+    font-size: 1rem;
+    padding: 0.9375rem 2.8125rem 0.9375rem 1.25rem;
+    width: 100%;
+}
+.search-form{
+    position: relative;
+}
+.campaigns-search-btn{
+    background: none;
+    border: 0;
+    padding: 0;
+    position: absolute;
+    right: 10px;
+    top: calc(50% - 0.0625rem);
+    transform: translateY(-50%);
+    border-radius: 3.125rem;
+    color: #fff;
+    line-height: normal;
+    overflow: hidden;
+}
+.campaigns-search-btn span:before {
+    color: #d10029 !important;
+    font-family: "Font Awesome 5 Free";
+   content: "\f095";
+}
+.quicklinks-inner *{
+    font-size: 12px;
+}
+.quicklinks-inner{
+    width: 100%;
+    justify-content: right;
+    padding: 10px 0;
+}
+.quicklinks-inner ul{
+    gap:5px;
+}
+.quicklinks-inner ul li{
+    list-style: none;
+}
+.quicklinks-inner ul li a{
+    color: #d10029;
+}
+.quicklinks-inner ul li:after{
+    content: ',';
+}
+.logo-search-section {
+    padding-top: 10px;
+}

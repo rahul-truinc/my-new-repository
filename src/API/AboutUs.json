@@ -1,0 +1,22 @@
+{
+    "ZPatternData": [
+        {
+            "ZPatterntext": "The Best of Asia on Your Plate",
+            "ZPatternimg":"./images/Notre-histoire.jpg"
+        }
+    ],
+    "ParagraphTextSectionData": [
+        {
+            "paragraphTextheading": "The pleasure of sharing our Asian cultural heritage and culinary traditions",
+            "paragraphTextcontent":"For over 35 years, the primary mission of Kim Phat supermarkets has been to offer you the best of Asia through a continually expanding diversity of fresh and quality food products, all at competitive prices. Whether you have Asian roots and wish to perpetuate the traditions of your home country, come from other horizons and enjoy diversifying your meals, or are a culinary enthusiast always seeking gastronomic discoveries, our greatest joy is to share with you our values and culture. We are committed to ensuring the most accessible and authentic Asian offerings every time you visit our establishments. Take the time to experience Kim Phat!"
+        },
+        {
+            "paragraphTextheading": "Based on a sense of community and family",
+            "paragraphTextcontent":"It was shortly after their arrival in 1979 with the wave of refugees from Southeast Asia that Mr. Yip Chee Sing and his wife began their adventure by supplying their community with bags of rice. Following repeated demand for a wider offer, in 1986 they opened their first Asian grocery store, which was a great success even beyond their home community. With the help of their children who have become adults, the opening of 3 other grocery stores has allowed the chain to become the benchmark in Quebec for Asian food products."
+        },
+        {
+            "paragraphTextheading": "A wish from us to you",
+            "paragraphTextcontent":"The words KIM PHAT mean respectively GOLD and FORTUNE in Chinese. These words were chosen by our founders to represent the wish of prosperity and abundance for their community and their customers."
+        }
+    ]
+}

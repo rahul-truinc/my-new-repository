@@ -1,0 +1,10 @@
+.paragraphTextheading{
+    font-size: 36px;
+    color: #3a393c;
+    margin: 40px 0 30px 0;
+}
+.paragraphTextcontent{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #404040;
+}

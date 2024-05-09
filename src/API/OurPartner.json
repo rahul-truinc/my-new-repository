@@ -1,0 +1,17 @@
+{
+    "ZPatternData": [
+        {
+            "ZPatterntext": "Proud Partners",
+            "ZPatternimg": "./images/voila-par-IGA.jpg"
+        }
+    ],
+    "ParagraphTextSectionData": [
+        {
+            "paragraphTextheading": "Kim Phat partners",
+            "paragraphTextcontent": "By joining the Sobeys family in 2018, the company has entered into a deployment phase to increase its Asian food offering throughout Quebec. "
+        },
+        {
+            "paragraphTextcontent": "Thanks to this partnership, it is now possible to find many Asian pantry essentials in all IGA supermarkets as well as on the online grocery platform Voilà par IGA."
+        }
+    ]
+}

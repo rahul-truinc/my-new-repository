@@ -1,0 +1,33 @@
+.newsLetter-form {
+    width: 40%;
+}
+.newsLetter-dis {
+    width: 50%;
+}
+.newsLetter-img {
+    width: 10%;
+}
+button.newsLetter-frm_button_submit {
+    font-family: Gotham Bold, sans-serif;
+    font-size: 1rem;
+    line-height: normal;
+    text-align: center;
+    background: #d10029;
+    -moz-border-radius: 1.875rem;
+    border-radius: 1.875rem;
+    border: 0.125rem solid #d10029;
+    color: #fff;
+    padding: 0.9375rem 2.1875rem;
+    box-shadow: none;
+    margin: 0;
+}
+input.formInput {
+    width: calc(100% - 10.625rem);
+    padding: 0.625rem 1.25rem;
+    border-radius: 0.4375rem;
+    height: 3.4375rem;
+    border: 0.0625rem solid #ddd;
+    color: #404040;
+    font-size: 1rem;
+    margin-right: 20px;
+}

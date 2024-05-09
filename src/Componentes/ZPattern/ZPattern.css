@@ -1,0 +1,24 @@
+
+.zPatternleft{
+    background: #d10029;
+    display: flex;
+    padding: 100px 80px;
+    width:35%;
+    align-items: center;
+    border-radius: 7px 0 0 7px;
+}
+.zPatternleft h1{
+    font-weight: 600;
+    font-size: 36px;
+    color: #ffffff;
+    
+}
+.zPatternright{
+    width: 65%;
+    
+}
+.zPatternright img{
+    width: 100%;
+    display: block;
+    border-radius: 0 7px 7px 0;
+}

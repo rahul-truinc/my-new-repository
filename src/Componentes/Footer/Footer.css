@@ -1,0 +1,55 @@
+.footer-Logo {
+    width: 40%;
+}
+
+.footerMenu-col-1,
+.footerMenu-col-2 {
+    width: 14%;
+}
+
+.footerMenu-col-3 {
+    width: 17%;
+}
+
+.footerMenu-col-1 ul li,
+.footerMenu-col-2 ul li,
+.footerMenu-col-3 ul li {
+    list-style: none;
+}
+
+.footerMenu-col-1 ul li a,
+.footerMenu-col-2 ul li a,
+.footerMenu-col-3 ul li a {
+    text-decoration: none;
+    padding: 10px 15px 0 0;
+    display: block;
+    font-size: 14px;
+}
+
+.menuHeading {
+    font-weight: bold;
+}
+
+.footerOtherinfo .footerInfo li {
+    list-style: none;
+}
+
+.footerOtherinfo .footerInfo li a {
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footerOtherinfo .footerInfo li a:after {
+    content: "|";
+    margin: 0 10px;
+}
+.footerOtherinfo .footerInfo li:last-child a:after 
+{
+    display: none;
+}
+
+.footerOtherinfo {
+    padding-top: 30px;
+    margin-top: 30px;
+    border-top: 1px solid #e48096;
+}

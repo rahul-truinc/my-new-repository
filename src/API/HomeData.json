@@ -1,0 +1,70 @@
+{
+    "cardHeading": "Flyers and promotions",
+    "FeaturedHeading":"Featured recipes",
+    "Featuredpera":"Get delicious recipes and meal ideas and find the ingredients to prepare them on sale at Kim Phat",
+    "OurstoresdHeading":"Our stores",
+
+
+    "cardImage": [
+        {
+            "cardImageLeft": "./images/KP-Flyer_.jpg",
+            "cardImageMidUp": "./images/KP-Beaute.jpg",
+            "cardImagemiddw": "./images/nos-produits-sur-voila.png",
+            "cardImageRightup": "./images/KP_Nos-specialites.jpg",
+            "cardImageRightdw": "./images/KP-Notre-marque-privee.jpg"
+        }
+    ],
+    "homeCarousel": [
+        {
+            "image": "./images/Visuel_We_have_been_sharing_1720x560_V01d.png"
+        },
+        {
+            "image": "./images/look-exclusive-promotion.png"
+        },
+        {
+            "image": "./images/4magasins_1720x560_EN1.jpg"
+        }
+    ],
+    "MultiCarousel": [
+        {
+            "image": "./images/agedashi_tofu.jpg",
+            "ctaText": "Par pays"
+        },
+        {
+            "image": "./images/kung-pao-chicken.jpg",
+            "ctaText":"Dans le wok"
+        },
+        {
+            "image": "./images/grenouilles-frites.jpg",
+            "ctaText":"Chaud"
+            
+        },
+        {
+            "image": "./images/lotus-salad.jpg",
+            "ctaText":"Froid"
+        },
+        {
+            "image": "./images/banana-tapioca.jpg",
+            "ctaText":"Desserts"
+        }
+    ],
+    "Ourstores": [
+        {
+            "image": "./images/kim-phat-goyer.jpg",
+            "ctaText": "Par pays"
+        },
+        {
+            "image": "./images/KP_Jarry.jpg",
+            "ctaText":"Dans le wok"
+        },
+        {
+            "image": "./images/kim-phat-brossard.jpg",
+            "ctaText":"Chaud"
+            
+        },
+        {
+            "image": "./images/kim-phat-ville-saint-laurent.jpg",
+            "ctaText":"Froid"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+.flex-wrap{
+    flex-wrap:wrap;
+}
+.FeaturedHeading h2, .FeaturedHeading p{
+    text-align: center;
+    font-size:36px;
+    color: #404040;
+}
+.cardHeading h2, .OurstoresdHeading h2{
+    margin: 80px 0 60px 0;
+    text-align: center;
+    font-size:36px;
+    color: #404040;
+}
+.red-bg{
+    background: #c8002d;
+    padding-top:60px !important;
+    padding-bottom: 30px !important;
+}
+.red-bg *{
+    color: #ffffff;
+}
+.FeaturedHeading p{
+    font-size: 16px;
+    margin: 30px 0 60px 0;
+}
+.lite-yellow-bg{
+    background-color: #efebd1;
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    margin: 80px 0;
+}
+.yelow-bg{
+    background: #e8ac38;
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.contentBodysection .container{
+    padding:40px 125px 80px !important;
+}

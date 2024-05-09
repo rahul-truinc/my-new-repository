@@ -1,0 +1,47 @@
+.m-Carousel .slick-prev:before,
+.m-Carousel .slick-next:before, .m-Carousel .slick-prev, .m-Carousel .slick-next {
+   display:none !important;
+}
+.carouselCard-img{
+    display: flex;
+}
+.carouselCard-img img{
+    width: 100%;
+}
+.d-Carousel{
+    gap: 15px;
+}
+.d-Carousel .carouselCard{
+    border-radius: 7px;
+    background-color: #fff;
+    width: 25%;
+}
+.d-Carousel .carouselCard img {
+    border-radius: 7px 7px 0 0;
+}
+.d-Carousel .carouselCard .carouse-card-title{
+    padding: 20px;
+    border: 0.0625rem solid #ddd;
+    border-top: 0;
+    border-radius: 0 0 7px 7px;
+}
+.d-Carousel .carouselCard .carouse-card-title h3 a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #404040;
+}
+.Ourstores-container{
+    margin-bottom: 80px;
+}
+@media (min-width:767px){
+    .m-Carousel{
+        display: none;
+    }
+
+}
+@media (max-width:767px){
+    .d-Carousel{
+        display: none !important;
+    }
+
+}
